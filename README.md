@@ -20,9 +20,9 @@
 </br>
 
 <div align="center"><h3>My GitHub Stats</h3></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hamza417&theme=swift&hide_border=false&include_all_commits=true&count_private=true" align="center" style="width: 50%" /></div>  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza417&theme=swift&hide_border=false" align="center" style="width: 50%" /></div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza417&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width: 50%" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hamza417&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" align="center" style="width: 75%" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza417&theme=swift&hide_border=false" align="center" style="width: 75%" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza417&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" style="width: 75%" /></div> 
 
 
 <div align="center"><h3>✍️ Random Dev Quote</h3></div>
