@@ -1,9 +1,29 @@
-## Hi, I'm Hamza Rizwan 👋🏼🧑🏻‍💻,
+## ``` -->```,
+![](https://komarev.com/ghpvc/?username=Hamza417&&style=for-the-badge&label=Visitors)
+
+```commandline
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hamza417&theme=city_light&hide_border=true&include_all_commits=true&count_private=true) 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hamza417&theme=swift&hide_border=true) </br>
+class Hamza_Rizwan:
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Hamza417&&style=for-the-badge" align="center" />
-</div>  
+    def __init__(self):
+        self.name = "Hamza Rizwan"
+        self.state = "Student"
+        self.role = "Software Developer"
+        self.method = "Self Taught"
+        self.hobbies = ["Visual Arts", "UI/UX"]
+        self.languages = ["Kotlin", "Java", "Python", "C", "C++", ...]
+        self.language_spoken = ["hi", "en_US", "ur"]
+
+    def say_hi(self):
+        print("Thanks for dropping by,")
+        print("Hope you will find my work interesting, and")
+        print("don't forget to hit ☆ if you do.", end="\n\n")
+        print("Here's your tea --> ☕")
+
+
+me = Hamza_Rizwan()
+me.say_hi()
+```
