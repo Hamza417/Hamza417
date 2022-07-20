@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 
-class Hamza_Rizwan:
+class HamzaRizwan:
 
     def __init__(self):
         self.name = "Hamza Rizwan"
@@ -15,16 +15,17 @@ class Hamza_Rizwan:
         self.language_spoken = ["hi", "en_US", "ur"]
         self.loc = "2 million+"
 
-
-    def say_hi(self):
+    @staticmethod
+    def say_hi():
         print("Thanks for dropping by,")
         print("Hope you will find my work interesting, and")
         print("don't forget to hit ☆ if you do.", end="\n\n")
         print("Here's your tea --> ☕")
 
 
-me = Hamza_Rizwan()
+me = HamzaRizwan()
 me.say_hi()
+
 
 >>>
 ```
