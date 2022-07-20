@@ -1,5 +1,5 @@
 ## ``` -->```,
-![](https://komarev.com/ghpvc/?username=Hamza417&&style=for-the-badge&label=Visitors)
+![](https://komarev.com/ghpvc/?username=Hamza417&&style=flat&label=Visitors)
 
 ```commandline
 #!/usr/bin/python
@@ -16,6 +16,7 @@ class Hamza_Rizwan:
         self.hobbies = ["Visual Arts", "UI/UX"]
         self.languages = ["Kotlin", "Java", "Python", "C", "C++", ...]
         self.language_spoken = ["hi", "en_US", "ur"]
+        self.loc = "2 million+"
 
     def say_hi(self):
         print("Thanks for dropping by,")
