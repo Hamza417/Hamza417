@@ -1,6 +1,3 @@
-## ``` -->```,
-![](https://komarev.com/ghpvc/?username=Hamza417&&style=flat&label=Visitors)
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -28,4 +25,9 @@ class Hamza_Rizwan:
 
 me = Hamza_Rizwan()
 me.say_hi()
+
+>>>
 ```
+
+
+![](https://komarev.com/ghpvc/?username=Hamza417&&style=for-the-badge&label=Visitors)
