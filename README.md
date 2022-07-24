@@ -12,7 +12,6 @@ class HamzaRizwan:
         self.method = "Self Taught"
         self.hobbies = ["Visual Arts", "UI/UX"]
         self.languages = ["Kotlin", "Java", "Python", "C", "C++", ...]
-        self.language_spoken = ["hi", "en_US", "ur"]
         self.loc = "2 million+"
 
     @staticmethod
