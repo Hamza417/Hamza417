@@ -7,7 +7,7 @@ class HamzaRizwan:
 
     def __init__(self):
         self.name = "Hamza Rizwan"
-        self.state = "Student"
+        self.status = "Student"
         self.role = "Software Developer"
         self.method = "Self Taught"
         self.hobbies = ["Visual Arts", "UI/UX"]
