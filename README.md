@@ -9,6 +9,7 @@ class HamzaRizwan:
         self.name = "Hamza Rizwan"
         self.status = "Student"
         self.role = "Software Developer"
+        self.skillset = "Full Stack"
         self.method = "Self Taught"
         self.hobbies = ["Visual Arts", "UI/UX"]
         self.languages = ["Kotlin", "Java", "Python", "C", "C++", ...]
